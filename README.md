@@ -1,4 +1,4 @@
-# Fundastic-1
+# Fundraising platform 
 Fundastic-make fund raising fund and easy
 The purpose of the project is to develop a comprehensive Fundraising and
 Investment Platform using the MERN stack (MongoDB, Express.js, React.js, and
